@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ra0943
 - 👀 I’m interested in amature radio, flying, and coding
-- 🌱 I’m currently learning c# wpf for Australian VCE Applied Computing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c# blazor for Australian VCE
 - 📫 How to reach me rufusahern@hotmail.com or amature radio(VK3ACH)
 
 <!---
